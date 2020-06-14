@@ -1,4 +1,19 @@
-first_number = 1 
-second_number = 2 
+def addition(num1, num2)
+sum = num1 + num2
+sum
+end
 
-sum = first_number + second_number
+def subtraction(num1, num2)
+sum = num1 - num2
+sum
+end
+
+def division(num1, num2)
+sum = num1 / num2
+sum
+end
+
+def multiplication(num1, num2)
+sum = num1 * num2
+sum
+end
